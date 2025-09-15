@@ -1,0 +1,5 @@
+number=input("Enter First number")
+a1=int(number)
+number=input("Enter Second number")
+a2=int(number)
+print(a1+a2)
